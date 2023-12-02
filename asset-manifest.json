@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Online_Job_Portal_ReactJS/static/css/main.11d8f0af.css",
+    "main.js": "/Online_Job_Portal_ReactJS/static/js/main.0a7a6a70.js",
+    "index.html": "/Online_Job_Portal_ReactJS/index.html",
+    "main.11d8f0af.css.map": "/Online_Job_Portal_ReactJS/static/css/main.11d8f0af.css.map",
+    "main.0a7a6a70.js.map": "/Online_Job_Portal_ReactJS/static/js/main.0a7a6a70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d8f0af.css",
+    "static/js/main.0a7a6a70.js"
+  ]
+}
